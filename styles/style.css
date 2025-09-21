@@ -14,7 +14,7 @@ section, .container-fluid, .row {
 }
 
 /* Ensure padding doesn’t break layout */
-section {
-  /* padding-left: 1rem;
-  padding-right: 1rem; */
-}
+/* section {
+  padding-left: 1rem;
+  padding-right: 1rem;
+} */
